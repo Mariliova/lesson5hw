@@ -4,6 +4,7 @@
 
 body {
     margin: 0;
+    overflow-x: hidden;
 }
 
 header,
@@ -19,7 +20,7 @@ main,
 .left,
 .right {
     display: inline-block;
-    height: calc(100vh - 208px);
+    height: calc(100vh - 200px);
 }
 
 .left {
@@ -33,7 +34,7 @@ main,
 }
 
 main {
-    width: calc(100vw - 520px);
+    width: calc(100vw - 506px);
 }
 
 footer,
