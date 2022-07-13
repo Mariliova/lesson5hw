@@ -4,7 +4,6 @@
 
 body {
     margin: 0;
-    overflow-x: hidden;
 }
 
 header,
@@ -34,7 +33,7 @@ main,
 }
 
 main {
-    width: calc(100vw - 506px);
+    width: calc(100vw - 515px);
 }
 
 footer,
