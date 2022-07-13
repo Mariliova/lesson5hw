@@ -19,7 +19,7 @@ main,
 .left,
 .right {
     display: inline-block;
-    height: calc(100vh - 210px);
+    height: calc(100vh - 208px);
 }
 
 .left {
